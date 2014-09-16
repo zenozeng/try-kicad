@@ -4,7 +4,7 @@
 
 ## Plot
 
-![solar-charging-circuit.svg](solar-charging-circuit.svg)
+![solar-charging-circuit.svg](https://raw.githubusercontent.com/zenozeng/Solar-Charging-Circuit/master/solar-charging-circuit.svg)
 
 ## Requirements
 
