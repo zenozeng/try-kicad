@@ -4,12 +4,18 @@
 
 ## Plot
 
-![solar-charging-circuit.svg](https://raw.githubusercontent.com/zenozeng/Solar-Charging-Circuit/master/solar-charging-circuit.svg)
+![solar-charging-circuit.svg](solar-charging-circuit.png)
 
 ## Requirements
 
 ```bash
-sudo apt-get install kicad
+sudo apt-get install kicad inkscape
 ```
 
 KiCad 是开源的跨平台 EDA 软件。非常不错哦。
+
+## Convert SVG 2 PNG
+
+```bash
+inkscape -f solar-charging-circuit.svg -e solar-charging-circuit.png
+```
