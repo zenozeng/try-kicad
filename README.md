@@ -2,6 +2,10 @@
 
 实现在太阳能电池的输出电压小于蓄电池端电压的情况下（但不能小于蓄电池端电压的1/2）实现充电过程
 
+## Plot
+
+![solar-charging-circuit.svg](solar-charging-circuit.svg)
+
 ## Requirements
 
 ```bash
