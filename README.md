@@ -25,3 +25,7 @@ KiCad 是开源的跨平台 EDA 软件。非常不错哦。
 ```bash
 inkscape -f solar-charging-circuit.svg -e solar-charging-circuit.png
 ```
+
+## Links
+
+- http://wenku.baidu.com/view/f71bad4033687e21af45a95e.html
