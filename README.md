@@ -4,6 +4,12 @@
 
 ## Plot
 
+### DC 放大电路
+
+![solar-charging-circuit.png](solar-charging-circuit.png)
+
+### Solar Charging Circuit
+
 ![solar-charging-circuit.svg](solar-charging-circuit.png)
 
 ## Requirements
