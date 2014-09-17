@@ -6,7 +6,7 @@
 
 ### DC 放大电路
 
-![solar-charging-circuit.png](solar-charging-circuit.png)
+![dc-amplification.png](dc-amplification.png)
 
 ### Solar Charging Circuit
 
